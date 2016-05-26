@@ -8,4 +8,8 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Hello Test Android Welcome to GitHub" />
+    <TextClock
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textClock1" />
 </LinearLayout>
