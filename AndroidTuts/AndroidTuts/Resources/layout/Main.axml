@@ -28,7 +28,7 @@
         android:layout_marginRight="20dp"
         android:textSize="15sp" />
     <TextView
-        android:text="Or"
+        android:text="OR"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="0dp"
